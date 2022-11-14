@@ -1,6 +1,6 @@
 ## Oii, tudo tranquilinho? Eu sou a Bruna Dalla, Desenvolvedora Web FullStack em formação pela Kenzie Academy Brasil!
 
-- 🌱 No momento estou estudando **Node.js** e outras linguagens **Back End**
+- 🌱 No momento estou estudando a linguagem backend **Python** 
 - 😄 Pronouns: ela/ dela
 
 <div align="center">
