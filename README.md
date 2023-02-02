@@ -1,8 +1,5 @@
 ## Oii, tudo tranquilinho? Eu sou a Bruna Dalla, Desenvolvedora Web FullStack em formação pela Kenzie Academy Brasil!
 
-- 🌱 No momento estou estudando a linguagem backend **Python** 
-- 😄 Pronouns: ela/ dela
-
 <div align="center">
   <a href="https://github.com/brunadalla">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunadalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
