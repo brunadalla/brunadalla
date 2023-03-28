@@ -1,4 +1,4 @@
-## Oii, tudo tranquilinho? Eu sou a Bruna Dalla, Desenvolvedora Web FullStack em formação pela Kenzie Academy Brasil!
+## Oii, tudo tranquilinho? Eu sou a Bruna Dalla, Desenvolvedora Web FullStack formada pela Kenzie Academy Brasil!
 
 <div align="center">
   <a href="https://github.com/brunadalla">
