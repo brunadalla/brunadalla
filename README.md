@@ -33,18 +33,3 @@
   <img src="https://img.shields.io/badge/reactnative-3DDC84?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
 </p>
 
-<hr/>
-
-<div align="center">
-  <a href="https://github.com/brunadalla">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunadalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunadalla&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
-</div>
-
-<br/>
-
-<div> 
-  
-  ![Snake animation](https://github.com/brunadalla/brunadalla/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
